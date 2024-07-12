@@ -18,6 +18,8 @@ project_directory/
 ```
 
 ## Getting Started
+### Clone the repository:
+    git clone https://github.com/pelinkeskin/DBrain_task.git
 ### [Task 1: Local Kafka Environment Setup](task1/)
 * Navigate to the task1 directory.
 * Refer to the [README.md](task1/README.md) file in that directory for detailed instructions on setting up the Kafka environment.
