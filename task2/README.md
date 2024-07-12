@@ -32,8 +32,6 @@ project_directory/
 ## Prerequisites
 * Docker installed and running
 ## Steps
-### Clone the repository:
-    git clone https://github.com/pelinkeskin/DBrain.git
 ### Bash
     sh task2.sh
     
